@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AurumAuto.Application/AurumAuto.Application.csproj" />
+    <Project Path="src/AurumAuto.Domain/AurumAuto.Domain.csproj" />
+    <Project Path="src/AurumAuto.Infrastructure/AurumAuto.Infrastructure.csproj" />
+    <Project Path="src/AurumAuto.Web/AurumAuto.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AurumAuto.UnitTests/AurumAuto.UnitTests.csproj" />
+  </Folder>
+</Solution>
